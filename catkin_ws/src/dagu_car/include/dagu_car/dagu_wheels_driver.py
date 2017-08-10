@@ -92,7 +92,7 @@ if __name__ == '__main__':
     N = 10
     delay = 100. / 1000.
 
-    dagu = DAGU_Differential_Drive()
+    dagu = DAGU_Differentical_Drive()
 
     # turn left
     dagu.setSteerAngle(1.0)
